@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/GT_Courses/Semester_1/CSE-6010/Assignments/Assignment_1/A1_CLion/powerlaw.c
+stdio.h
+-
+math.h
+-
+
