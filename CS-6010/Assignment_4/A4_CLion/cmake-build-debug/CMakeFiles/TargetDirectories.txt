@@ -1,3 +1,0 @@
-E:/GT_Courses/Semester_1/CSE-6010/Assignments/Assignment_4/A4_CLion/cmake-build-debug/CMakeFiles/A4_CLion.dir
-E:/GT_Courses/Semester_1/CSE-6010/Assignments/Assignment_4/A4_CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/GT_Courses/Semester_1/CSE-6010/Assignments/Assignment_4/A4_CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
