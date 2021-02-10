@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/GT_Courses/Semester_1/CSE-6010/Assignments/Assignment_3/A3_Clion/K_means.c
+stdlib.h
+-
+stdio.h
+-
+math.h
+E:/GT_Courses/Semester_1/CSE-6010/Assignments/Assignment_3/A3_Clion/math.h
+time.h
+E:/GT_Courses/Semester_1/CSE-6010/Assignments/Assignment_3/A3_Clion/time.h
+errno.h
+-
+limits.h
+-
+
