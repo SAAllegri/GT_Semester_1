@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\A6_CLion.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\A6_CLion.dir/objects.a @CMakeFiles\A6_CLion.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\A6_CLion.dir/objects.a -Wl,--no-whole-archive  -o A6_CLion.exe -Wl,--out-implib,libA6_CLion.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\A6_CLion.dir\linklibs.rsp
