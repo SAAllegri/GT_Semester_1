@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\A3_Clion.dir/objects.a
-C:\JETBRA~1\CLion\MiniGW\bin\ar.exe cr CMakeFiles\A3_Clion.dir/objects.a @CMakeFiles\A3_Clion.dir\objects1.rsp
-C:\JETBRA~1\CLion\MiniGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\A3_Clion.dir/objects.a -Wl,--no-whole-archive  -o A3_Clion.exe -Wl,--out-implib,libA3_Clion.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\A3_Clion.dir\linklibs.rsp
