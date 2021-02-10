@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/GT_Courses/Semester_1/CSE-6010/Assignments/Assignment_7/A7_CLion/montecarlo.c
+stdio.h
+-
+stdlib.h
+-
+omp.h
+-
+time.h
+-
+math.h
+-
+
