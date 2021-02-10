@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/GT_Courses/Semester_1/CSE-6010/Assignments/Assignment_5/A5_Clion/generate.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+E:/GT_Courses/Semester_1/CSE-6010/Assignments/Assignment_5/A5_Clion/main_generate.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+generate.h
+E:/GT_Courses/Semester_1/CSE-6010/Assignments/Assignment_5/A5_Clion/generate.h
+
